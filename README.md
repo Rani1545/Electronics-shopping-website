@@ -1,0 +1,1 @@
+Electronics Store is a responsive, interactive e-commerce webpage built with HTML, CSS, and JavaScript. This project simulates a small online shop where customers can explore products across different categories, add items to a shopping cart, and review their order summary before checkout.
